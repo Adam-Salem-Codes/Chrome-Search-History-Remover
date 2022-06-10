@@ -22,3 +22,5 @@ Put in anything that looks like your account name.<br> The path should look like
 If you want the command prompt window to stop after delting the directory you can put "PAUSE" at the end of the batch file. This<br>
 will make it so the command prompt window won't auto-close.
 
+*This also applies to all of the different file types...*
+
