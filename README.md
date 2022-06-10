@@ -1,4 +1,5 @@
-# Chrome-Search-History-Remover
+# Chrome-Search-History-Remover ❌
+
 ---
 
 
